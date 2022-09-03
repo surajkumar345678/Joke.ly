@@ -6,4 +6,5 @@ and then pass that joke to a Text-to-Speech API and it will tell us a joke.<br>
 A nice little animatedd gif robot here.<br>
 Have to press Tell me a Joke button. Basic functionality added in button using javaScript.<br>
 So just press button and it will tell us a joke.
-![image](https://user-images.githubusercontent.com/60316890/177035389-907e210c-0000-4eef-895f-1c1b75b6677a.png)
+
+![Screenshot (148)](https://user-images.githubusercontent.com/60316890/188261532-27a5ab47-533b-4de4-ac2d-0c75668c2d9b.png)
